@@ -1,35 +1,25 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Flight-Delay-Analysis</h1>
-    
-  <p>Prajwal Chavan</p>
-    <p>CWID - 885154344</p>
-    <p>prajwalc2107@csu.fullerton.edu</p>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-</head>
-<body>    
-    <p>Anunay Amrit</p>
-    <p>CWID - 885165118</p>
-    <p>amrit.anunay@csu.fullerton.edu</p>
+  <h1>Flight-Delay-Analysis</h1>
+  <br>
 
-  </body>
-</html>
-    <p>Pranav Chand</p>
-    <p>CWID - 885147561</p>
-    <p>pranav_chand@csu.fullerton.edu</p>
+  <p><b>Prajwal Chavan</b></p>
+  <p><b>CWID - 885154344</b></p>
+  <p>Email: <a href="mailto:prajwalc2107@csu.fullerton.edu">prajwalc2107@csu.fullerton.edu</a></p>
+  <br>
 
-  
+  <p><b>Anunay Amrit</b></p>
+  <p><b>CWID - 885165118</b></p>
+  <p>Email: <a href="mailto:amrit.anunay@csu.fullerton.edu">amrit.anunay@csu.fullerton.edu</a></p>
+  <br>
+
+  <p><b>Pranav Chand</b></p>
+  <p><b>CWID - 885147561</b></p>
+  <p>Email: <a href="mailto:pranav_chand@csu.fullerton.edu">pranav_chand@csu.fullerton.edu</a></p>
 </body>
 </html>
